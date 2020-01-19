@@ -6,7 +6,8 @@
     "minimum-stability": "dev",
     "keywords": [
         "library",
-        "enum",
+        "bitmask",
+        "bitwise",
         "ds"
     ],
     "homepage": "http://www.calabrothers.com",
